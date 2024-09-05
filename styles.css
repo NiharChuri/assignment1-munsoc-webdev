@@ -1,0 +1,63 @@
+body{
+    background-color: #3d3d3d;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+}
+
+p{
+    font-family: monospace;
+    color: palevioletred;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    color: rgb(0, 255, 0);
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px;
+    text-decoration: none;
+    background-color: #333;
+    border-radius: 5px;
+}
+
+
+.btns{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+#deadpool{
+    background-color: red;
+    border-radius: 7px;
+}
+
+#wolverine{
+    background-color: yellow;
+    border-radius: 7px;
+}
+
+h4{
+    text-align: center;
+    color: cyan
+}
